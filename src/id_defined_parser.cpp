@@ -14,6 +14,7 @@
  */
 
 #include "id_defined_parser.h"
+#include <algorithm>
 #include "file_entry.h"
 #include "file_manager.h"
 #include "resource_util.h"
